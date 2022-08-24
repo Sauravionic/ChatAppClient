@@ -1,0 +1,13 @@
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\bin\Debug\MultiUserChatApp.exe.config
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\bin\Debug\MultiUserChatApp.exe
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\bin\Debug\MultiUserChatApp.pdb
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\bin\Debug\Guna.UI2.dll
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\MultiUserChatApp.MainForm.resources
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\MultiUserChatApp.Properties.Resources.resources
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\MultiUserChatApp.exe
+C:\Users\sweks\Downloads\MultiUserChatApp-master\MultiUserChatApp-master\MultiUserChatApp\obj\Debug\MultiUserChatApp.pdb
